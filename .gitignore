@@ -1,0 +1,22 @@
+# Dependências e builds
+node_modules/
+dist/
+src/main/target/
+src/main/gen/
+
+# Segredos e dados locais: a chave da Riot NUNCA entra no Git
+.env
+.env.*
+!.env.example
+config.json
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# Editor / SO
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
