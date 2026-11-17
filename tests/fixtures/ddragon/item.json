@@ -1,0 +1,69 @@
+{
+ "type": "item",
+ "version": "15.22.1",
+ "data": {
+  "3089": {
+   "name": "Capuz da Morte de Rabadon",
+   "gold": {
+    "total": 3600,
+    "purchasable": true
+   },
+   "from": [
+    "1058"
+   ],
+   "tags": [
+    "SpellDamage"
+   ],
+   "maps": {
+    "11": true,
+    "12": true
+   }
+  },
+  "1058": {
+   "name": "Bastão Desnecessariamente Grande",
+   "gold": {
+    "total": 1200,
+    "purchasable": true
+   },
+   "into": [
+    "3089"
+   ],
+   "tags": [
+    "SpellDamage"
+   ],
+   "maps": {
+    "11": true
+   }
+  },
+  "3020": {
+   "name": "Sapatos do Feiticeiro",
+   "gold": {
+    "total": 1100,
+    "purchasable": true
+   },
+   "from": [
+    "1001"
+   ],
+   "tags": [
+    "Boots"
+   ],
+   "maps": {
+    "11": true
+   }
+  },
+  "443054": {
+   "name": "Item de Arena",
+   "gold": {
+    "total": 3000,
+    "purchasable": true
+   },
+   "from": [
+    "1058"
+   ],
+   "maps": {
+    "11": false,
+    "30": true
+   }
+  }
+ }
+}

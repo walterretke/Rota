@@ -1,0 +1,15 @@
+{
+ "type": "summoner",
+ "data": {
+  "SummonerFlash": {
+   "id": "SummonerFlash",
+   "key": "4",
+   "name": "Flash"
+  },
+  "SummonerDot": {
+   "id": "SummonerDot",
+   "key": "14",
+   "name": "Incendiar"
+  }
+ }
+}

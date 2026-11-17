@@ -1,0 +1,589 @@
+{
+ "metadata": {
+  "dataVersion": "2",
+  "matchId": "BR1_0000000001",
+  "participants": [
+   "test-puuid-01",
+   "test-puuid-02",
+   "test-puuid-03",
+   "test-puuid-04",
+   "test-puuid-05",
+   "test-puuid-06",
+   "test-puuid-07",
+   "test-puuid-08",
+   "test-puuid-09",
+   "test-puuid-10"
+  ]
+ },
+ "info": {
+  "gameCreation": 1763400000000,
+  "gameStartTimestamp": 1763400010000,
+  "gameDuration": 1800,
+  "gameVersion": "15.22.712.1234",
+  "queueId": 420,
+  "mapId": 11,
+  "platformId": "BR1",
+  "participants": [
+   {
+    "puuid": "test-puuid-01",
+    "riotIdGameName": "Jogador1",
+    "riotIdTagline": "TESTE",
+    "participantId": 1,
+    "teamId": 100,
+    "teamPosition": "TOP",
+    "championId": 103,
+    "championName": "",
+    "win": true,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-02",
+    "riotIdGameName": "Jogador2",
+    "riotIdTagline": "TESTE",
+    "participantId": 2,
+    "teamId": 100,
+    "teamPosition": "JUNGLE",
+    "championId": 64,
+    "championName": "",
+    "win": true,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-03",
+    "riotIdGameName": "Jogador3",
+    "riotIdTagline": "TESTE",
+    "participantId": 3,
+    "teamId": 100,
+    "teamPosition": "MIDDLE",
+    "championId": 61,
+    "championName": "",
+    "win": true,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-04",
+    "riotIdGameName": "Jogador4",
+    "riotIdTagline": "TESTE",
+    "participantId": 4,
+    "teamId": 100,
+    "teamPosition": "BOTTOM",
+    "championId": 22,
+    "championName": "",
+    "win": true,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-05",
+    "riotIdGameName": "Jogador5",
+    "riotIdTagline": "TESTE",
+    "participantId": 5,
+    "teamId": 100,
+    "teamPosition": "UTILITY",
+    "championId": 412,
+    "championName": "",
+    "win": true,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-06",
+    "riotIdGameName": "Jogador6",
+    "riotIdTagline": "TESTE",
+    "participantId": 6,
+    "teamId": 200,
+    "teamPosition": "TOP",
+    "championId": 86,
+    "championName": "",
+    "win": false,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-07",
+    "riotIdGameName": "Jogador7",
+    "riotIdTagline": "TESTE",
+    "participantId": 7,
+    "teamId": 200,
+    "teamPosition": "JUNGLE",
+    "championId": 121,
+    "championName": "",
+    "win": false,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-08",
+    "riotIdGameName": "Jogador8",
+    "riotIdTagline": "TESTE",
+    "participantId": 8,
+    "teamId": 200,
+    "teamPosition": "MIDDLE",
+    "championId": 7,
+    "championName": "",
+    "win": false,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-09",
+    "riotIdGameName": "Jogador9",
+    "riotIdTagline": "TESTE",
+    "participantId": 9,
+    "teamId": 200,
+    "teamPosition": "BOTTOM",
+    "championId": 51,
+    "championName": "",
+    "win": false,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   },
+   {
+    "puuid": "test-puuid-10",
+    "riotIdGameName": "Jogador10",
+    "riotIdTagline": "TESTE",
+    "participantId": 10,
+    "teamId": 200,
+    "teamPosition": "UTILITY",
+    "championId": 117,
+    "championName": "",
+    "win": false,
+    "kills": 5,
+    "deaths": 2,
+    "assists": 7,
+    "totalMinionsKilled": 180,
+    "neutralMinionsKilled": 12,
+    "goldEarned": 12000,
+    "totalDamageDealtToChampions": 25000,
+    "damageSelfMitigated": 9000,
+    "visionScore": 20,
+    "wardsPlaced": 8,
+    "wardsKilled": 2,
+    "detectorWardsPlaced": 1,
+    "item0": 3089,
+    "item1": 3020,
+    "item2": 1058,
+    "item3": 0,
+    "item4": 0,
+    "item5": 0,
+    "item6": 3340,
+    "summoner1Id": 4,
+    "summoner2Id": 14,
+    "champLevel": 16,
+    "timePlayed": 1800,
+    "gameEndedInEarlySurrender": false,
+    "perks": {
+     "statPerks": {
+      "offense": 5008,
+      "flex": 5008,
+      "defense": 5001
+     },
+     "styles": [
+      {
+       "description": "primaryStyle",
+       "style": 8100,
+       "selections": [
+        {
+         "perk": 8112
+        }
+       ]
+      }
+     ]
+    },
+    "challenges": {
+     "killParticipation": 0.6
+    }
+   }
+  ]
+ }
+}
