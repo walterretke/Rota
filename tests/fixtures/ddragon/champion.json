@@ -1,0 +1,24 @@
+{
+ "type": "champion",
+ "version": "15.22.1",
+ "data": {
+  "Ahri": {
+   "id": "Ahri",
+   "key": "103",
+   "name": "Ahri",
+   "tags": [
+    "Mage",
+    "Assassin"
+   ]
+  },
+  "LeeSin": {
+   "id": "LeeSin",
+   "key": "64",
+   "name": "Lee Sin",
+   "tags": [
+    "Fighter",
+    "Assassin"
+   ]
+  }
+ }
+}

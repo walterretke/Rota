@@ -1,0 +1,30 @@
+[
+ {
+  "id": 8100,
+  "key": "Domination",
+  "name": "Dominação",
+  "icon": "d.png",
+  "slots": [
+   {
+    "runes": [
+     {
+      "id": 8112,
+      "key": "Electrocute",
+      "name": "Eletrocutar",
+      "icon": "e.png"
+     }
+    ]
+   },
+   {
+    "runes": [
+     {
+      "id": 8126,
+      "key": "CheapShot",
+      "name": "Golpe Desleal",
+      "icon": "c.png"
+     }
+    ]
+   }
+  ]
+ }
+]
